@@ -41,7 +41,7 @@ p {
     margin-left: auto;
     margin-right: auto;
     width: 40rem;
-    font-family: Georgia;
+    font-family: Calibri;
     font-size: 24px;
     text-align: justify;
     padding-top: 4%;
@@ -94,11 +94,13 @@ p.footer {
 }
 
 .project_title{
+    font-size: 40px;
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: center;
     padding-top: 4%;
+    font-family: Calibri;
 }
 
 .project_title_heading{
